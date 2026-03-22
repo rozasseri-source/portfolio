@@ -1,0 +1,19 @@
+---
+pagetitle: "Rose Alaseri — Portfolio"
+---
+
+::: {.hero-section}
+
+::: {.hero-photo}
+![](images/profile.jpg)
+:::
+
+::: {.hero-text}
+# Rose Alaseri
+
+I'm an industrial engineering student at Columbia University with a background in political science and sustainable engineering. I use data and modeling to explore how policy decisions shape climate, trade, and public health.
+
+[View my projects](projects.qmd){.hero-cta}
+:::
+
+:::

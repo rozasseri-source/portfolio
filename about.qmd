@@ -1,0 +1,23 @@
+---
+pagetitle: "Behind The Work"
+---
+
+::: {.about-container}
+
+# Behind The Work
+
+This site started as a place for me to think.
+
+I study industrial engineering at Columbia with minors in political science and sustainable engineering. I have a lot of questions and not enough places to explore them. So I made one.
+
+Think of this as my canvas. Some of what's here is finished work. Some of it is still in progress — colors I'm trying, combinations I haven't figured out yet. That's what makes it mine.
+
+## What I Keep Pulling At
+
+Climate policy and who actually pays for it. Environmental systems and how we sustain them — or fail to. Public health and who gets left behind. The way a decision made in one part of the world quietly reshapes someone's life in another. I'm interested in the systems underneath — not just how they work, but who they work for.
+
+## How I Approach Things
+
+I'm an engineer who wandered into policy, sustainability, and environmental science and never looked back. So I build models, dig into data, and try to find patterns. But I also know that numbers alone don't tell the full story. The work I care about most lives somewhere between the data and the people it describes.
+
+:::

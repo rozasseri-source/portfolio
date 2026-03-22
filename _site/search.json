@@ -1,0 +1,205 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Behind The Work",
+    "section": "",
+    "text": "This site started as a place for me to think.\nI study industrial engineering at Columbia with minors in political science and sustainable engineering. I have a lot of questions and not enough places to explore them. So I made one.\nThink of this as my canvas. Some of what’s here is finished work. Some of it is still in progress — colors I’m trying, combinations I haven’t figured out yet. That’s what makes it mine.\n\n\nClimate policy and who actually pays for it. Environmental systems and how we sustain them — or fail to. Public health and who gets left behind. The way a decision made in one part of the world quietly reshapes someone’s life in another. I’m interested in the systems underneath — not just how they work, but who they work for.\n\n\n\nI’m an engineer who wandered into policy, sustainability, and environmental science and never looked back. So I build models, dig into data, and try to find patterns. But I also know that numbers alone don’t tell the full story. The work I care about most lives somewhere between the data and the people it describes."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Rose Alaseri",
+    "section": "",
+    "text": "Rose Alaseri\nI’m an industrial engineering student at Columbia University with a background in political science and sustainable engineering. I use data and modeling to explore how policy decisions shape climate, trade, and public health.\nView my projects"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Columbia University | Expected 2029\nMinor in Political Science · Minor in Sustainable Engineering\n\n\n\n\n\n\nIndependent Research | 2026\nBuilt a three-layer economic model analyzing the interaction between EU carbon border fees and domestic carbon pricing for Saudi Arabia. Extended KAPSARC KGEMM framework. Found that CBAM savings reduce the net cost of carbon pricing by 3 to 7 percent, worth up to 308 million dollars annually.\n\n\n\n\n\n\nOrganization Name | Date to Date\nDescribe what you did and what impact you had.\n\n\n\n\n\nTechnical: Python, R, Excel, data visualization, systems modeling, operations research, cost-benefit analysis\nPolicy: Policy brief writing, stakeholder analysis, regulatory analysis, environmental impact assessment\nLanguages: Add your languages here"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "",
+    "text": "Columbia University | Expected 2029\nMinor in Political Science · Minor in Sustainable Engineering"
+  },
+  {
+    "objectID": "resume.html#research-projects",
+    "href": "resume.html#research-projects",
+    "title": "Resume",
+    "section": "",
+    "text": "Independent Research | 2026\nBuilt a three-layer economic model analyzing the interaction between EU carbon border fees and domestic carbon pricing for Saudi Arabia. Extended KAPSARC KGEMM framework. Found that CBAM savings reduce the net cost of carbon pricing by 3 to 7 percent, worth up to 308 million dollars annually."
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Resume",
+    "section": "",
+    "text": "Organization Name | Date to Date\nDescribe what you did and what impact you had."
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Resume",
+    "section": "",
+    "text": "Technical: Python, R, Excel, data visualization, systems modeling, operations research, cost-benefit analysis\nPolicy: Policy brief writing, stakeholder analysis, regulatory analysis, environmental impact assessment\nLanguages: Add your languages here"
+  },
+  {
+    "objectID": "index.html#featured-work",
+    "href": "index.html#featured-work",
+    "title": "Rose Alaseri",
+    "section": "Featured Work",
+    "text": "Featured Work\n\n\n01\n\nPolicy Brief\nAn 8-12 page analysis of how CBAM fees interact with domestic carbon pricing in Saudi Arabia, with data-driven recommendations.\n\n\n\n02\n\nInteractive Model\nA three-layer economic model where you can adjust carbon price assumptions and see the impact on GDP, CBAM savings, and net cost in real time.\n\n\n\n03\n\nOp-Ed\nAn accessible 1,000-word piece making the case for why Saudi Arabia’s best climate move is also its smartest economic one."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "CBAM & Saudi Carbon Pricing\nA three-layer economic model analyzing how EU carbon border fees interact with domestic carbon pricing for Saudi Arabia. Built with Python, calibrated from KAPSARC’s KGEMM. Found that CBAM savings reduce the net cost of carbon pricing by 3 to 7 percent, worth up to $308 million per year.\n\n\n\n\n\nComing soon\nCarbon offset markets promise to protect biodiversity — but the gap between what gets traded on paper and what happens to ecosystems on the ground is where the real policy questions live.\n\n\n\n\n\nComing soon\nDrug policy sits at the intersection of criminal justice and medicine. How governments draw that line shapes who gets treatment, who gets a record, and who gets left behind."
+  },
+  {
+    "objectID": "projects.html#climate-trade",
+    "href": "projects.html#climate-trade",
+    "title": "Projects",
+    "section": "",
+    "text": "CBAM & Saudi Carbon Pricing\nA three-layer economic model analyzing how EU carbon border fees interact with domestic carbon pricing for Saudi Arabia. Built with Python, calibrated from KAPSARC’s KGEMM. Found that CBAM savings reduce the net cost of carbon pricing by 3 to 7 percent, worth up to $308 million per year."
+  },
+  {
+    "objectID": "projects.html#social-justice",
+    "href": "projects.html#social-justice",
+    "title": "Projects",
+    "section": "",
+    "text": "Coming soon\nFuture projects exploring equity, access, and fairness in policy design."
+  },
+  {
+    "objectID": "projects.html#environmental-policy",
+    "href": "projects.html#environmental-policy",
+    "title": "Projects",
+    "section": "",
+    "text": "Coming soon\nCarbon offset markets promise to protect biodiversity — but the gap between what gets traded on paper and what happens to ecosystems on the ground is where the real policy questions live."
+  },
+  {
+    "objectID": "projects.html#public-health",
+    "href": "projects.html#public-health",
+    "title": "Projects",
+    "section": "",
+    "text": "Coming soon\nDrug policy sits at the intersection of criminal justice and medicine. How governments draw that line shapes who gets treatment, who gets a record, and who gets left behind."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Publications\nArticles and analyses on climate policy, environmental justice, and public health. Coming soon."
+  },
+  {
+    "objectID": "publications.html#opinion",
+    "href": "publications.html#opinion",
+    "title": "Publications",
+    "section": "",
+    "text": "Coming soon\nShort pieces on current policy debates and emerging issues."
+  },
+  {
+    "objectID": "publications.html#explainers",
+    "href": "publications.html#explainers",
+    "title": "Publications",
+    "section": "",
+    "text": "Coming soon\nIn-depth breakdowns of complex policy topics for a general audience."
+  },
+  {
+    "objectID": "publications.html#data-driven-analysis",
+    "href": "publications.html#data-driven-analysis",
+    "title": "Publications",
+    "section": "",
+    "text": "Coming soon\nOriginal research and data analysis on policy questions."
+  },
+  {
+    "objectID": "about.html#what-i-keep-pulling-at",
+    "href": "about.html#what-i-keep-pulling-at",
+    "title": "Behind The Work",
+    "section": "",
+    "text": "Climate policy and who actually pays for it. Environmental systems and how we sustain them — or fail to. Public health and who gets left behind. The way a decision made in one part of the world quietly reshapes someone’s life in another. I’m interested in the systems underneath — not just how they work, but who they work for."
+  },
+  {
+    "objectID": "about.html#how-i-approach-things",
+    "href": "about.html#how-i-approach-things",
+    "title": "Behind The Work",
+    "section": "",
+    "text": "I’m an engineer who wandered into policy, sustainability, and environmental science and never looked back. So I build models, dig into data, and try to find patterns. But I also know that numbers alone don’t tell the full story. The work I care about most lives somewhere between the data and the people it describes."
+  },
+  {
+    "objectID": "about.html#the-toolkit",
+    "href": "about.html#the-toolkit",
+    "title": "Why This Exists",
+    "section": "",
+    "text": "Systems Modeling Data Analysis (Python, R) Policy Writing & Briefs Cost-Benefit Analysis Operations Research Stakeholder Analysis Data Visualization Sustainability Assessment"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Why This Exists",
+    "section": "",
+    "text": "B.S. Industrial Engineering | Minor in Political Science | Minor in Sustainable Engineering\nColumbia University — Expected Graduation 2029"
+  },
+  {
+    "objectID": "cbam-project.html",
+    "href": "cbam-project.html",
+    "title": "The Hidden Cost of Inaction",
+    "section": "",
+    "text": "How EU carbon border fees create a strategic case for Saudi carbon pricing"
+  },
+  {
+    "objectID": "cbam-project.html#the-problem",
+    "href": "cbam-project.html#the-problem",
+    "title": "The Hidden Cost of Inaction",
+    "section": "The Problem",
+    "text": "The Problem\nSaudi Arabia has no carbon tax. The EU now charges Saudi exporters a carbon fee at the border through its Carbon Border Adjustment Mechanism (CBAM). But the CBAM includes a rebate: if Saudi Arabia introduces its own carbon price, that amount gets subtracted from the EU fee.\nSo the question becomes: does the money saved at the EU border offset some of the economic cost of a domestic carbon tax?"
+  },
+  {
+    "objectID": "cbam-project.html#why-this-matters",
+    "href": "cbam-project.html#why-this-matters",
+    "title": "The Hidden Cost of Inaction",
+    "section": "Why This Matters",
+    "text": "Why This Matters\nWithout any carbon price, Saudi Arabia pays an estimated 0.3 to 1.5 billion dollars per year to the EU — money that leaves the Saudi economy entirely. As CBAM expands to cover petrochemicals, the backbone of Vision 2030, the cost of inaction grows. The more successfully Saudi Arabia diversifies into manufactured exports, the greater its CBAM exposure becomes.\nNobody has modeled this interaction for Saudi Arabia before. This project directly extends KAPSARC’s published KGEMM research."
+  },
+  {
+    "objectID": "cbam-project.html#the-model",
+    "href": "cbam-project.html#the-model",
+    "title": "The Hidden Cost of Inaction",
+    "section": "The Model",
+    "text": "The Model\nI built a three-layer model combining macroeconomic modeling with trade exposure analysis.\nLayer 1 — GDP Impact. Calibrated from KAPSARC’s KGEMM results (Hasanov et al. 2025). A power function fitted to two anchor points: a 20 dollar per ton carbon price reduces emissions by 5.4 percent, while 50 dollars per ton achieves 9.5 percent. The diminishing returns confirm that cheap reductions happen first.\nLayer 2 — CBAM Trade Exposure (Novel). For each of seven sectors, the CBAM cost equals Saudi exports to the EU multiplied by excess emission intensity multiplied by the gap between the EU carbon price and any domestic price. Data from UN Comtrade, IEA, and sector-specific sources.\nLayer 3 — Net Cost. True cost equals GDP loss minus CBAM savings. Swept across nine scenarios varying EU carbon price, CBAM scope, and Saudi export volumes."
+  },
+  {
+    "objectID": "cbam-project.html#key-findings",
+    "href": "cbam-project.html#key-findings",
+    "title": "The Hidden Cost of Inaction",
+    "section": "Key Findings",
+    "text": "Key Findings\n\n3 to 7 percent Reduction in the true cost of Saudi carbon pricing when CBAM savings are accounted for\n\n\nUp to $308 million per year Potential CBAM savings at the EU border under a $30/ton domestic carbon price with expanded scope\n\n\n$0.3 to $1.5 billion per year Current cost of inaction — fees paid to the EU with zero domestic benefit"
+  },
+  {
+    "objectID": "cbam-project.html#scenario-results",
+    "href": "cbam-project.html#scenario-results",
+    "title": "The Hidden Cost of Inaction",
+    "section": "Scenario Results",
+    "text": "Scenario Results\nAt a domestic carbon price of 30 dollars per ton, the CBAM correction ranges from 2.7 percent under 2026 baseline conditions to 6.8 percent under expanded CBAM scope with Vision 2030 export growth. Under the most aggressive scenario, Saudi Arabia would transfer 1.5 billion dollars per year to the EU as a pure deadweight cost of policy inaction."
+  },
+  {
+    "objectID": "cbam-project.html#recommendations",
+    "href": "cbam-project.html#recommendations",
+    "title": "The Hidden Cost of Inaction",
+    "section": "Recommendations",
+    "text": "Recommendations\n\nIntroduce a sector-targeted carbon price of 20 to 30 dollars per ton by 2028, focused on CBAM-exposed industrial sectors.\nAlign domestic monitoring, reporting, and verification systems with CBAM requirements immediately.\nEarmark carbon revenue for industrial decarbonization in exposed sectors.\nEngage proactively with EU regulators on carbon pricing equivalence before CBAM expansion.\n\nThis is not primarily a climate policy — it is a trade competitiveness strategy."
+  },
+  {
+    "objectID": "cbam-project.html#code-and-data",
+    "href": "cbam-project.html#code-and-data",
+    "title": "The Hidden Cost of Inaction",
+    "section": "Code and Data",
+    "text": "Code and Data\nThe full Python model (three layers, nine scenarios, five publication figures) is available on GitHub.\nDownload the full policy brief (PDF)"
+  }
+]

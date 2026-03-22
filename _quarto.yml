@@ -1,0 +1,32 @@
+project:
+  type: website
+
+website:
+  title: "Rose Alaseri — Portfolio"
+  navbar:
+    background: "#1a6666"
+    foreground: "#ffffff"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: Behind The Work
+      - href: projects.qmd
+        text: Projects
+      - href: publications.qmd
+        text: Publications
+    right:
+      - icon: envelope
+        href: mailto:ra3459@columbia.edu
+      - icon: linkedin
+        href: https://www.linkedin.com/in/rose-asseri
+  page-footer:
+    center: "© 2026 Rose Alaseri. Licensed under CC BY-NC 4.0."
+    background: "#1a6666"
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: false
+    page-layout: full

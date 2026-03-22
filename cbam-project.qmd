@@ -1,0 +1,73 @@
+---
+pagetitle: "CBAM & Saudi Carbon Pricing — Rose Alaseri"
+---
+
+::: {.project-header}
+
+# The Hidden Cost of Inaction
+
+[How EU carbon border fees create a strategic case for Saudi carbon pricing]{.subtitle}
+
+:::
+
+::: {.project-body}
+
+## The Problem
+
+Saudi Arabia has no carbon tax. The EU now charges Saudi exporters a carbon fee at the border through its Carbon Border Adjustment Mechanism (CBAM). But the CBAM includes a rebate: if Saudi Arabia introduces its own carbon price, that amount gets subtracted from the EU fee.
+
+So the question becomes: does the money saved at the EU border offset some of the economic cost of a domestic carbon tax?
+
+## Why This Matters
+
+Without any carbon price, Saudi Arabia pays an estimated 0.3 to 1.5 billion dollars per year to the EU — money that leaves the Saudi economy entirely. As CBAM expands to cover petrochemicals, the backbone of Vision 2030, the cost of inaction grows. The more successfully Saudi Arabia diversifies into manufactured exports, the greater its CBAM exposure becomes.
+
+Nobody has modeled this interaction for Saudi Arabia before. This project directly extends KAPSARC's published KGEMM research.
+
+## The Model
+
+I built a three-layer model combining macroeconomic modeling with trade exposure analysis.
+
+**Layer 1 — GDP Impact.** Calibrated from KAPSARC's KGEMM results (Hasanov et al. 2025). A power function fitted to two anchor points: a 20 dollar per ton carbon price reduces emissions by 5.4 percent, while 50 dollars per ton achieves 9.5 percent. The diminishing returns confirm that cheap reductions happen first.
+
+**Layer 2 — CBAM Trade Exposure (Novel).** For each of seven sectors, the CBAM cost equals Saudi exports to the EU multiplied by excess emission intensity multiplied by the gap between the EU carbon price and any domestic price. Data from UN Comtrade, IEA, and sector-specific sources.
+
+**Layer 3 — Net Cost.** True cost equals GDP loss minus CBAM savings. Swept across nine scenarios varying EU carbon price, CBAM scope, and Saudi export volumes.
+
+## Key Findings
+
+::: {.key-finding}
+[3 to 7 percent]{.number}
+[Reduction in the true cost of Saudi carbon pricing when CBAM savings are accounted for]{.label}
+:::
+
+::: {.key-finding}
+[Up to $308 million per year]{.number}
+[Potential CBAM savings at the EU border under a $30/ton domestic carbon price with expanded scope]{.label}
+:::
+
+::: {.key-finding}
+[$0.3 to $1.5 billion per year]{.number}
+[Current cost of inaction — fees paid to the EU with zero domestic benefit]{.label}
+:::
+
+## Scenario Results
+
+At a domestic carbon price of 30 dollars per ton, the CBAM correction ranges from 2.7 percent under 2026 baseline conditions to 6.8 percent under expanded CBAM scope with Vision 2030 export growth. Under the most aggressive scenario, Saudi Arabia would transfer 1.5 billion dollars per year to the EU as a pure deadweight cost of policy inaction.
+
+## Recommendations
+
+1. Introduce a sector-targeted carbon price of 20 to 30 dollars per ton by 2028, focused on CBAM-exposed industrial sectors.
+2. Align domestic monitoring, reporting, and verification systems with CBAM requirements immediately.
+3. Earmark carbon revenue for industrial decarbonization in exposed sectors.
+4. Engage proactively with EU regulators on carbon pricing equivalence before CBAM expansion.
+
+This is not primarily a climate policy — it is a trade competitiveness strategy.
+
+## Code and Data
+
+The full Python model (three layers, nine scenarios, five publication figures) is available on [GitHub](https://github.com/yourusername/cbam-saudi-carbon-pricing).
+
+[Download the full policy brief (PDF)](files/policy_brief.pdf){.download-btn}
+
+:::

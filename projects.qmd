@@ -1,0 +1,33 @@
+---
+pagetitle: "Projects — Rose Alaseri"
+---
+
+::: {.project-body}
+
+# Projects
+
+## Climate & Trade
+
+::: {.key-finding}
+[CBAM & Saudi Carbon Pricing](cbam-project.qmd){style="text-decoration:none;color:#1a3c40;font-weight:600;"}
+
+A three-layer economic model analyzing how EU carbon border fees interact with domestic carbon pricing for Saudi Arabia. Built with Python, calibrated from KAPSARC's KGEMM. Found that CBAM savings reduce the net cost of carbon pricing by 3 to 7 percent, worth up to $308 million per year.
+:::
+
+## Environmental Policy
+
+::: {.key-finding}
+Coming soon
+
+Carbon offset markets promise to protect biodiversity — but the gap between what gets traded on paper and what happens to ecosystems on the ground is where the real policy questions live.
+:::
+
+## Public Health
+
+::: {.key-finding}
+Coming soon
+
+Drug policy sits at the intersection of criminal justice and medicine. How governments draw that line shapes who gets treatment, who gets a record, and who gets left behind.
+:::
+
+:::

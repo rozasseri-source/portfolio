@@ -1,0 +1,46 @@
+---
+pagetitle: "Resume — Rose"
+---
+
+::: {.resume-container}
+
+# Resume
+
+## Education
+
+::: {.resume-entry}
+### B.S. Industrial Engineering
+[Columbia University | Expected 2029]{.meta}
+
+Minor in Political Science · Minor in Sustainable Engineering
+:::
+
+## Research & Projects
+
+::: {.resume-entry}
+### CBAM & Saudi Carbon Pricing Analysis
+[Independent Research | 2026]{.meta}
+
+Built a three-layer economic model analyzing the interaction between EU carbon border fees and domestic carbon pricing for Saudi Arabia. Extended KAPSARC KGEMM framework. Found that CBAM savings reduce the net cost of carbon pricing by 3 to 7 percent, worth up to 308 million dollars annually.
+:::
+
+## Experience
+
+::: {.resume-entry}
+### Your Role Title
+[Organization Name | Date to Date]{.meta}
+
+Describe what you did and what impact you had.
+:::
+
+## Skills
+
+::: {.resume-entry}
+**Technical:** Python, R, Excel, data visualization, systems modeling, operations research, cost-benefit analysis
+
+**Policy:** Policy brief writing, stakeholder analysis, regulatory analysis, environmental impact assessment
+
+**Languages:** Add your languages here
+:::
+
+:::
