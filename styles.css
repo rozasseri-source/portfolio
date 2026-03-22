@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;600&display=swap');
+:root {
+  --color-deep: #1a6666;
+  --color-accent: #c4a882;
+  --color-accent-light: #e8ddd0;
+  --color-warm-bg: #f0ece4;
+  --color-text: #2a2a2a;
+  --color-text-light: #5e6b6a;
+  --color-divider: #ddd5ca;
+  --color-card-bg: #f8f6f1;
+  --color-beige: #e8ddd0;
+  --font-main: 'Josefin Sans', sans-serif;
+}
+body { font-family: var(--font-main); color: var(--color-text); background-color: var(--color-warm-bg); line-height: 1.75; font-weight: 300; }
+.navbar { font-family: var(--font-main); font-weight: 400; letter-spacing: 0.04em; text-transform: uppercase; font-size: 0.82rem; padding: 1rem 2rem; background: var(--color-deep) !important; }
+.navbar-brand { font-family: var(--font-main) !important; font-weight: 300; font-size: 1.3rem; text-transform: none; letter-spacing: 0.05em; }
+.navbar .nav-link:hover { color: var(--color-accent) !important; }
+.hero-section { display: flex; align-items: center; justify-content: center; gap: 5rem; min-height: 85vh; max-width: 1100px; margin: 0 auto; padding: 4rem 2rem; }
+.hero-photo img { width: 320px; height: 320px; object-fit: cover; border-radius: 50%; border: 5px solid var(--color-accent); box-shadow: 0 20px 60px rgba(26,102,102,0.12); }
+.hero-text { max-width: 520px; }
+.hero-text h1 { font-family: var(--font-main); font-size: 3rem; font-weight: 300; line-height: 1.15; margin-bottom: 0.5rem; color: #1a3c40; }
+.hero-text .tagline { font-family: var(--font-main); font-style: italic; font-size: 1.25rem; color: var(--color-accent); margin-bottom: 1.8rem; }
+.hero-text p { font-size: 1.1rem; color: var(--color-text-light); line-height: 1.8; margin-bottom: 1.5rem; }
+.hero-cta { display: inline-block; padding: 0.8rem 2rem; background: #1a3c40; color: #fff; text-decoration: none; font-weight: 400; font-size: 0.9rem; letter-spacing: 0.06em; text-transform: uppercase; transition: all 0.3s ease; border: 2px solid #1a3c40; }
+.hero-cta:hover { background: var(--color-accent); border-color: var(--color-accent); color: #fff; }
+.cards-section { max-width: 1100px; margin: 0 auto; padding: 2rem 2rem 6rem; }
+.cards-section h2 { font-family: var(--font-main); font-size: 2rem; font-weight: 300; text-align: center; margin-bottom: 3rem; color: #1a3c40; }
+.card-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem; }
+.card { background: var(--color-card-bg); padding: 2.5rem 2rem; border: 1px solid var(--color-divider); transition: all 0.3s ease; position: relative; overflow: hidden; }
+.card::before { content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 3px; background: var(--color-accent); transform: scaleX(0); transform-origin: left; transition: transform 0.4s ease; }
+.card:hover::before { transform: scaleX(1); }
+.card:hover { box-shadow: 0 10px 40px rgba(26,102,102,0.08); transform: translateY(-3px); }
+.card-number { font-family: var(--font-main); font-size: 2.5rem; font-weight: 300; color: var(--color-beige); margin-bottom: 0.8rem; line-height: 1; }
+.card h3 { font-family: var(--font-main); font-size: 1.25rem; font-weight: 600; margin-bottom: 0.8rem; color: #1a3c40; }
+.card p { font-size: 0.95rem; color: var(--color-text-light); line-height: 1.7; }
+.about-container { max-width: 780px; margin: 4rem auto; padding: 0 2rem; }
+.about-container h1 { font-family: var(--font-main); font-size: 2.5rem; font-weight: 300; margin-bottom: 2rem; color: #1a3c40; }
+.about-container h2 { font-family: var(--font-main); font-size: 1.5rem; font-weight: 400; margin-top: 3rem; margin-bottom: 1rem; color: #1a3c40; padding-bottom: 0.5rem; border-bottom: 2px solid var(--color-accent); }
+.about-container p { font-size: 1.05rem; color: var(--color-text-light); margin-bottom: 1.2rem; }
+.skills-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; margin: 1.5rem 0; }
+.skill-tag { background: var(--color-accent-light); color: #1a3c40; padding: 0.6rem 1.2rem; font-size: 0.9rem; font-weight: 400; text-align: center; }
+.project-header { max-width: 780px; margin: 4rem auto 2rem; padding: 0 2rem; }
+.project-header h1 { font-family: var(--font-main); font-size: 2.5rem; font-weight: 300; color: #1a3c40; margin-bottom: 0.5rem; }
+.project-header .subtitle { font-family: var(--font-main); font-style: italic; font-size: 1.2rem; color: var(--color-accent); margin-bottom: 2rem; }
+.project-body { max-width: 780px; margin: 0 auto; padding: 0 2rem 4rem; }
+.project-body h2 { font-family: var(--font-main); font-size: 1.5rem; font-weight: 400; margin-top: 3rem; margin-bottom: 1rem; color: #1a3c40; }
+.project-body p { font-size: 1.05rem; color: var(--color-text-light); margin-bottom: 1.2rem; }
+.key-finding { background: var(--color-card-bg); border-left: 4px solid var(--color-accent); padding: 1.5rem 2rem; margin: 2rem 0; }
+.key-finding .number { font-family: var(--font-main); font-size: 2.2rem; font-weight: 300; color: #1a3c40; line-height: 1; margin-bottom: 0.3rem; }
+.key-finding .label { font-size: 0.95rem; color: var(--color-text-light); }
+.resume-container { max-width: 780px; margin: 4rem auto; padding: 0 2rem; }
+.resume-container h1 { font-family: var(--font-main); font-size: 2.5rem; font-weight: 300; color: #1a3c40; margin-bottom: 0.5rem; }
+.resume-container h2 { font-family: var(--font-main); font-size: 1.4rem; font-weight: 400; margin-top: 2.5rem; margin-bottom: 1.2rem; color: #1a3c40; padding-bottom: 0.5rem; border-bottom: 2px solid var(--color-accent); }
+.resume-entry { margin-bottom: 2rem; }
+.resume-entry h3 { font-size: 1.1rem; font-weight: 600; color: var(--color-text); margin-bottom: 0.2rem; }
+.resume-entry .meta { font-size: 0.9rem; color: var(--color-accent); font-weight: 400; margin-bottom: 0.5rem; }
+.resume-entry p { font-size: 0.95rem; color: var(--color-text-light); }
+.download-btn { display: inline-block; padding: 0.8rem 2rem; background: #1a3c40; color: #fff; text-decoration: none; font-weight: 400; font-size: 0.9rem; letter-spacing: 0.06em; text-transform: uppercase; margin-top: 1rem; transition: all 0.3s ease; border: 2px solid #1a3c40; }
+.download-btn:hover { background: var(--color-accent); border-color: var(--color-accent); color: #fff; }
+.nav-footer { font-size: 0.85rem; padding: 2rem; background: var(--color-deep) !important; }
+@media (max-width: 768px) { .hero-section { flex-direction: column; text-align: center; gap: 2.5rem; padding: 3rem 1.5rem; } .hero-text h1 { font-size: 2.2rem; } .hero-photo img { width: 240px; height: 240px; } .card-grid { grid-template-columns: 1fr; } .skills-grid { grid-template-columns: 1fr; } }
