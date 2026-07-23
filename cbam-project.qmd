@@ -1,5 +1,5 @@
 ---
-pagetitle: "CBAM & Saudi Carbon Pricing — Rose Alaseri"
+pagetitle: "CBAM & Saudi Carbon Pricing — Rose Assire"
 ---
 
 ::: {.project-header}

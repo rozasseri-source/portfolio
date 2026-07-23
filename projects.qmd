@@ -1,5 +1,5 @@
 ---
-pagetitle: "Projects — Rose Alaseri"
+pagetitle: "Projects — Rose Assire"
 ---
 
 ::: {.project-body}

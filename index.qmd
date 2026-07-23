@@ -1,5 +1,5 @@
 ---
-pagetitle: "Rose Alaseri — Portfolio"
+pagetitle: "Rose Assire — Portfolio"
 ---
 
 ::: {.hero-section}
@@ -9,7 +9,7 @@ pagetitle: "Rose Alaseri — Portfolio"
 :::
 
 ::: {.hero-text}
-# Rose Alaseri
+# Rose Assire
 
 I'm an industrial engineering student at Columbia University with a background in political science and sustainable engineering. I use data and modeling to explore how policy decisions shape climate, trade, and public health.
 
